@@ -3,11 +3,12 @@
 
 - 👨‍💻 I specialize in the development of **web applications and services**
 
-- 📫 How to reach me **jgalvan89@gmail.com**
+
 
 - ⚡ I intend to keep getting better as a professional **and hopefully work alongside others who enjoy coding as much as I do.**
 
 <h3 align="left">Connect with me:</h3>
+- 📫  **jgalvan89@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/jordimiyai-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordimiyai-dev" height="30" width="40" /></a>
 </p>
