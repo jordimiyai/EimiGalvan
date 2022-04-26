@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eimi</h1>
 <h3 align="center">A passionate Full Stack Dev from Argentina</h3>
 
-- 🌱 I’m currently learning **Docker, graphQL and getting better at OOP**
+- 🌱 I’m currently learning **Docker, NestJs and getting better at OOP**
 
 - 📫 How to reach me **jgalvan89@gmail.com**
 
