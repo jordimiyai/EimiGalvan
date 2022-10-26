@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eimi</h1>
 <h3 align="center">A passionate Full Stack Dev from Argentina</h3>
 
-- 🌱 I’m currently working at Mercaado Libre.
+- 🌱 I’m currently working at Mercado Libre.
 
 - 📫 How to reach me **jgalvan89@gmail.com**
 
